@@ -41,6 +41,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
+    {"id":{"name":"spr_PlayerWalk","path":"sprites/spr_PlayerWalk/spr_PlayerWalk.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

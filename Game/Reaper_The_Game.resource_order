@@ -20,5 +20,6 @@
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"spr_chao","order":1,"path":"sprites/spr_chao/spr_chao.yy",},
+    {"name":"spr_PlayerWalk","order":2,"path":"sprites/spr_PlayerWalk/spr_PlayerWalk.yy",},
   ],
 }

@@ -53,3 +53,9 @@ if (!place_meeting(x, y + spd_vertical, obj_chao)) {
     }
     spd_vertical = 0;
 }
+
+//caso ele saia da tela
+
+if (obj_Player.x < 0 || obj_Player.x > room_width || obj_Player.y < 0 || obj_Player.y > room_height) {
+    room_restart();
+}

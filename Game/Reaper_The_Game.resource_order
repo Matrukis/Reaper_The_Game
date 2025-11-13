@@ -19,7 +19,10 @@
   "ResourceOrderSettings":[
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
+    {"name":"obj_Spike","order":3,"path":"objects/obj_Spike/obj_Spike.yy",},
     {"name":"spr_chao","order":1,"path":"sprites/spr_chao/spr_chao.yy",},
     {"name":"spr_PlayerWalk","order":2,"path":"sprites/spr_PlayerWalk/spr_PlayerWalk.yy",},
+    {"name":"spr_Spike","order":4,"path":"sprites/spr_Spike/spr_Spike.yy",},
+    {"name":"spr_tileset","order":3,"path":"sprites/spr_tileset/spr_tileset.yy",},
   ],
 }
